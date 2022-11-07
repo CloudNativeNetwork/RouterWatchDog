@@ -1,11 +1,3 @@
-# 中国电信智能网关重启脚本
-天翼网关
-***
+# Chain Telecom Gateway Restart
 
-> 仅在山东测试过，其他地区不知道能不能使用
-
-> 不定期维护 有时间就上来看看
->> 2020年8月7日
-
->> Windows 平台
-## mr_bug@foxmail.com
+## with Probe
